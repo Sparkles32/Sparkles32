@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: #ffdab9;
+    font-family: sans-serif;
+}
+a {color: maroon;}
+a:hover {
+    color: brown;
+  }
+li {
+    text-align: left;
+    color: maroon;
+    font-weight: 600;
+    margin-top: 5px;
+    margin-left: 140px;
+}
+hr {
+    height: 2px;
+    background-color: maroon;
+    border-color: maroon;
+}
+.form {background-color: lightgoldenrodyellow;
+    padding: 1px;
+    margin: 10px;
+}
+.lists {
+    background-color: lightgoldenrodyellow;
+    padding: 5px;
+    margin: 10px;
+}
+.cats {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.top {background-color: burlywood;
+    padding: 1px;
+    margin: 10px
+}
